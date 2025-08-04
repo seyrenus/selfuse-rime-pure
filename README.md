@@ -110,7 +110,6 @@
 
 ## 安装方法
 
-- [查看安装方法](https://www.laais.cn/posts/projects/rime/installation/)
 - 
 
 小狼毫（PC 端）
