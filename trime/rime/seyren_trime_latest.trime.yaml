@@ -31,8 +31,8 @@ style:
   candidate_font: han.ttf  #候选字体
   candidate_padding: 5  #候选项内边距
   candidate_spacing: 0.5  #候选间距
-  candidate_text_size: 18  #候选字号
-  candidate_view_height: 28 #候选区高度
+  candidate_text_size: 24  #候选字号
+  candidate_view_height: 26 #候选区高度
   comment_font: comment.ttf #编码提示字体
   comment_height: 14 #编码提示区高度
   comment_on_top: true #编码提示在上方或右侧
