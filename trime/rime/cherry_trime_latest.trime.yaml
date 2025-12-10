@@ -190,11 +190,11 @@ preset_color_schemes:
     baoe: *color2 #aoeiu背景色
     taoe: *color6 #aoeiu文字颜色
     bh1: *color2 #第一行背景色
-    th1: *color1 #第一行文字颜色
+    th1: *color7 #第一行文字颜色
     bh2: *color2 #第二行背景色
-    th2: *color1 #第二行文字颜色
+    th2: *color7 #第二行文字颜色
     bh3: *color2 #第三行背景色
-    th3: *color1 #第三行文字颜色
+    th3: *color7 #第三行文字颜色
     bh4: *color2 #第四行背景色
     th4: *color1 #第四行文字颜色
 
@@ -1092,8 +1092,8 @@ preset_keyboards:
       - {click: c, long_click: copy, swipe_down: ' ', key_back_color: wb86C.png, key_text_color: th3}
       - {click: v, long_click: paste_clip, swipe_down: paste, key_back_color: wb86V.png, key_text_color: th3}
       - {click: b, long_click: ";", swipe_down: "\\", key_back_color: wb86B.png, key_text_color: th3}
-      - {click: n, long_click: ":", key_back_color: bh3, key_text_color: wb86N.png}
-      - {click: m, long_click: '?', swipe_down: "|", key_back_color: bh3, key_text_color: wb86M.png}
+      - {click: n, long_click: ":", key_back_color: wb86N.png, key_text_color: th3}
+      - {click: m, long_click: '?', swipe_down: "|", key_back_color: wb86M.png, key_text_color: th3}
       - {click: BackSpace2, width: 15, key_back_color: bbs, key_text_color: tbs}
 
       - {click: Keyboard_number, long_click: Menu, width: 12.5, key_back_color: bgn, key_text_color: tgn}
