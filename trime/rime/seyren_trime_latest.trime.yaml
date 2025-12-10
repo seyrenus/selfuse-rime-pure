@@ -1063,37 +1063,37 @@ preset_keyboards:
   #  height: 48
     ascii_mode: 0
     keys:
-      - {click: q, long_click: 1, key_back_color: wb86Q.png, key_text_color: th1}
-      - {click: w, long_click: 2, key_back_color: wb86W.png, key_text_color: th1}
-      - {click: e, long_click: 3, key_back_color: wb86E.png, key_text_color: th1}
-      - {click: r, long_click: 4, key_back_color: wb86R.png, key_text_color: th1}
-      - {click: t, long_click: 5, key_back_color: wb86T.png, key_text_color: th1}
-      - {click: y, long_click: 6, key_back_color: wb86Y.png, key_text_color: th1}
-      - {click: u, long_click: 7, key_back_color: wb86U.png, key_text_color: th1}
-      - {click: i, long_click: 8, key_back_color: wb86I.png, key_text_color: th1}
-      - {click: o, long_click: 9, key_back_color: wb86O.png, key_text_color: th1}
-      - {click: p, long_click: 0, key_back_color: wb86P.png, key_text_color: th1}
+      - {click: q, long_click: 1, key_back_color: wb86Q.png, key_text_color: th1, key_symbol_color: th1}
+      - {click: w, long_click: 2, key_back_color: wb86W.png, key_text_color: th1, key_symbol_color: th1}
+      - {click: e, long_click: 3, key_back_color: wb86E.png, key_text_color: th1, key_symbol_color: th1}
+      - {click: r, long_click: 4, key_back_color: wb86R.png, key_text_color: th1, key_symbol_color: th1}
+      - {click: t, long_click: 5, key_back_color: wb86T.png, key_text_color: th1, key_symbol_color: th1}
+      - {click: y, long_click: 6, key_back_color: wb86Y.png, key_text_color: th1, key_symbol_color: th1}
+      - {click: u, long_click: 7, key_back_color: wb86U.png, key_text_color: th1, key_symbol_color: th1}
+      - {click: i, long_click: 8, key_back_color: wb86I.png, key_text_color: th1, key_symbol_color: th1}
+      - {click: o, long_click: 9, key_back_color: wb86O.png, key_text_color: th1, key_symbol_color: th1}
+      - {click: p, long_click: 0, key_back_color: wb86P.png, key_text_color: th1, key_symbol_color: th1}
 
       - {width: 5, key_back_color: bh2, key_text_color: th2}
-      - {click: a, long_click: select_all, key_back_color: wb86A.png, key_text_color: th2}
-      - {click: s, long_click: '@', key_back_color: wb86S.png, key_text_color: th2}
-      - {click: d, long_click: '#', key_back_color: wb86D.png, key_text_color: th2}
-      - {click: f, long_click: '$', key_back_color: wb86F.png, key_text_color: th2}
-      - {click: g, long_click: '%', swipe_down: "date_time", key_back_color: wb86G.png, key_text_color: th2}
-      - {click: h, long_click: '!', swipe_down: "+", key_back_color: wb86H.png, key_text_color: th2}
-      - {click: j, long_click: '&', swipe_down: "-", key_back_color: wb86J.png, key_text_color: th2}
-      - {click: k, long_click: '*', swipe_down: "_", key_back_color: wb86K.png, key_text_color: th2}
-      - {click: l, long_click: '(){Left}', swipe_down: "=", key_back_color: wb86L.png, key_text_color: th2}
+      - {click: a, long_click: select_all, key_back_color: wb86A.png, key_text_color: th2, key_symbol_color: th2}
+      - {click: s, long_click: '@', key_back_color: wb86S.png, key_text_color: th2, key_symbol_color: th2}
+      - {click: d, long_click: '#', key_back_color: wb86D.png, key_text_color: th2, key_symbol_color: th2}
+      - {click: f, long_click: '$', key_back_color: wb86F.png, key_text_color: th2, key_symbol_color: th2}
+      - {click: g, long_click: '%', swipe_down: "date_time", key_back_color: wb86G.png, key_text_color: th2, key_symbol_color: th2}
+      - {click: h, long_click: '!', swipe_down: "+", key_back_color: wb86H.png, key_text_color: th2, key_symbol_color: th2}
+      - {click: j, long_click: '&', swipe_down: "-", key_back_color: wb86J.png, key_text_color: th2, key_symbol_color: th2}
+      - {click: k, long_click: '*', swipe_down: "_", key_back_color: wb86K.png, key_text_color: th2, key_symbol_color: th2}
+      - {click: l, long_click: '(){Left}', swipe_down: "=", key_back_color: wb86L.png, key_text_color: th2, key_symbol_color: th2}
       - {width: 5, key_back_color: bh2, key_text_color: th2}
 
       - {click: Shift_L, label_symbol: " ", long_click: Shift_L, double_click: Shift_L3, composing: delimiter, width: 15, hilited_key_back_color: benter, key_back_color: bbs, key_text_color: tbs}
-      - {click: z, long_click: '`', swipe_down: '[]{Left}', key_back_color: wb86Z.png, key_text_color: th3}
-      - {click: x, long_click: cut, swipe_down: '{}{Left}', key_back_color: wb86X.png, key_text_color: th3}
-      - {click: c, long_click: copy, swipe_down: ' ', key_back_color: wb86C.png, key_text_color: th3}
-      - {click: v, long_click: paste_clip, swipe_down: paste, key_back_color: wb86V.png, key_text_color: th3}
-      - {click: b, long_click: ";", swipe_down: "\\", key_back_color: wb86B.png, key_text_color: th3}
-      - {click: n, long_click: ":", key_back_color: wb86N.png, key_text_color: th3}
-      - {click: m, long_click: '?', swipe_down: "|", key_back_color: wb86M.png, key_text_color: th3}
+      - {click: z, long_click: '`', swipe_down: '[]{Left}', key_back_color: wb86Z.png, key_text_color: th3, key_symbol_color: th3}
+      - {click: x, long_click: cut, swipe_down: '{}{Left}', key_back_color: wb86X.png, key_text_color: th3, key_symbol_color: th3}
+      - {click: c, long_click: copy, swipe_down: ' ', key_back_color: wb86C.png, key_text_color: th3, key_symbol_color: th3}
+      - {click: v, long_click: paste_clip, swipe_down: paste, key_back_color: wb86V.png, key_text_color: th3, key_symbol_color: th3}
+      - {click: b, long_click: ";", swipe_down: "\\", key_back_color: wb86B.png, key_text_color: th3, key_symbol_color: th3}
+      - {click: n, long_click: ":", key_back_color: wb86N.png, key_text_color: th3, key_symbol_color: th3}
+      - {click: m, long_click: '?', swipe_down: "|", key_back_color: wb86M.png, key_text_color: th3, key_symbol_color: th3}
       - {click: BackSpace2, width: 15, key_back_color: bbs, key_text_color: tbs}
 
       - {click: Keyboard_number, long_click: Menu, width: 12.5, key_back_color: bgn, key_text_color: tgn}
