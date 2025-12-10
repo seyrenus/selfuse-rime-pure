@@ -6,8 +6,8 @@
 # encoding: utf-8
 
 config_version: "3.0"
-name: 标准          #方案名称
-author: 风花絮        #作者信息
+name: seyren          #方案名称
+author: seyren        #作者信息
 
 #键盘高度
 height:
