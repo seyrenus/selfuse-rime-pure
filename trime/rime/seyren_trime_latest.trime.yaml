@@ -876,7 +876,17 @@ liquid_keyboard:
       - Return2
       - clipboard_window
       - liquid_keyboard_tabs
-  keyboards: [emoji, math, ascii, cn, history, symbollist, list, ids, symbol, tabs, pinyin, script_symbols, jp, grease, rusa, korea, lation, yinbiao, unit, yanwenzi, combing, emoji_full]  #tab列表
+  keyboards: [emoji, math, ascii, cn, clipboard, collection, draft, history, tabs, yanwenzi, emoji_full]
+  clipboard:
+    name: "剪贴"
+    type: CLIPBOARD
+  collection:
+    name: "收藏"
+    type: COLLECTION
+  draft:
+    name: "草稿"
+    type: DRAFT
+  #tab列表
   tabs:
     name: 更多
     type: TABS
